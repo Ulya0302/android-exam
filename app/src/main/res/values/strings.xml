@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Планирование путешествий</string>
+    <string name="add_travel">Добавить поездку</string>
+    <string name="start_date">Начало поездки:</string>
+    <string name="end_date">Окончание поездки</string>
+    <string name="where">Куда едем?</string>
+    <string name="where_caption">Пункт назначения..</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отмена</string>
+    <string name="dates">Даты поездки: %s - %s</string>
+    <string name="duration">Продолжительность: %d %s</string>
+    <string name="day1">день</string>
+    <string name="day24">дня</string>
+    <string name="day59">дней</string>
+    <string name="destination">Пункт поездки: %s</string>
+</resources>
